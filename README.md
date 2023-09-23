@@ -1,1 +1,2 @@
-# DynamicsofMachinery_Course_Project
+**Dynamics of Machinery Course Projects** <br />
+Analysis of multibody dynamics problems: Performed simulation of dynamic systems using MATLAB and MCS Adams software. (Fall 2021)
